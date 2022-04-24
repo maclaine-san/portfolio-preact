@@ -21,6 +21,7 @@ html, body {
 }
 
 .full {
+	display: -ms-flexbox;
 	display: flex;
 	padding-left: 30%;
 	padding-right: 30%;
@@ -58,3 +59,6 @@ p {
 	font-size: 40px;
 	color: white;
 }
+
+
+/*# sourceMappingURL=ssr-bundle.0b0db.css.map*/
